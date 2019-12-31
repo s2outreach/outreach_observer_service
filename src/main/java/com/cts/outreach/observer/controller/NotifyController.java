@@ -1,4 +1,4 @@
-package com.cts.outreach.overver.controller;
+package com.cts.outreach.observer.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.messaging.handler.annotation.MessageMapping;

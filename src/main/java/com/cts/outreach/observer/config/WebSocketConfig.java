@@ -1,4 +1,4 @@
-package com.cts.outreach.overver.config;
+package com.cts.outreach.observer.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;
